@@ -1,15 +1,17 @@
-## Hi there 👋
 
-<!--
-**BHASKAR0111/BHASKAR0111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Bhaskar Baluni 👋
 
-Here are some ideas to get you started:
-# Hi, I'm Bhaskar Baluni 👋
-
-🎯 Aspiring Data Analyst | Python | SQL | ML | Power BI
+Aspiring Data Analyst | Python | SQL | ML | Power BI
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github)](https://bhaskar0111.github.io/Bhaskar-Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bhaskar-baluni-87607a213/)
+
+## 🚀 Top Projects
+- 🏥 Patient Readmission Prediction (ML + Streamlit)
+- 📊 Telco Customer Churn Analysis (Power BI)
+- 🚗 Object & Speed Detection (YOLOv8)
+- 💬 YouTube Sentiment Analysis (NLP)
+- 🌐 RiseNow — Career Comeback Toolkit
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -19,12 +21,15 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats
 ![Bhaskar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BHASKAR0111&show_icons=true&theme=dark)
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+### 🚀 About Me
+
+- 🔭 I’m currently working on **RiseNow — Career Comeback Toolkit**
+- 🌱 I’m currently learning **Advanced Machine Learning & Real-world Data Analytics**
+- 👯 I’m looking to collaborate on **Data Analytics, ML Projects & Open Source**
+- 🤔 I’m looking for help with **Scaling ML models & deployment**
+- 💬 Ask me about **Python, SQL, Power BI, Machine Learning**
+- 📫 How to reach me: **bhaskarbaluni10@gmail.com**
+- 😄 Pronouns: **he/him**
+- ⚡ Fun fact: **I turn raw data into real insights 🚀**
