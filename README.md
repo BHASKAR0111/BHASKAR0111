@@ -25,8 +25,7 @@ Aspiring Data Analyst | Python | SQL | ML | Power BI
 ## 🔥 Streak Stats
 ![Streak](https://streak-stats.demolab.com?user=BHASKAR0111&theme=tokyonight&hide_border=true)
 
-## 💻 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BHASKAR0111&layout=compact&theme=tokyonight&hide_border=true)
+
 
 
 ---
