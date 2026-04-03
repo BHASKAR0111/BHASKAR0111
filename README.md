@@ -5,6 +5,11 @@
   💡 Turning data into insights | Building real-world ML projects  
 </p>
 
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github)](https://bhaskar0111.github.io/Bhaskar-Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bhaskar-baluni-87607a213/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhaskarbaluni10@gmail.com)
+
 ---
 
 ## 🚀 About Me
