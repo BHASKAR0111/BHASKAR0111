@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://bhaskar0111.github.io/Bhaskar-Portfolio/">
-    <img src="https://img.shields.io/badge/🚀_View_Portfolio-000000?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/bhaskar-baluni-87607a213/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
@@ -54,10 +54,7 @@ Helping job seekers regain direction, build confidence, and find opportunities
 
 ---
 
-## 💻 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BHASKAR0111&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+
 
 ---
 
