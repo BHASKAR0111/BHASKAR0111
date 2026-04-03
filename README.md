@@ -20,7 +20,14 @@ Aspiring Data Analyst | Python | SQL | ML | Power BI
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=BHASKAR0111&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=BHASKAR0111&show_icons=true&theme=tokyonight&hide_border=true)
+
+## 🔥 Streak Stats
+![Streak](https://streak-stats.demolab.com?user=BHASKAR0111&theme=tokyonight&hide_border=true)
+
+## 💻 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BHASKAR0111&layout=compact&theme=tokyonight&hide_border=true)
+
 
 ---
 ### 🚀 About Me
